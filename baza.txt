@@ -1,0 +1,6 @@
+Chlopi;Wladyslaw Reymont;1904;1;880;6.7
+Potop;Henryk Sienkiewicz;1886;0;984;7.1
+Lalka;Boleslaw Prus;1890;0;676;7.2
+Tango;Slawomir Mrozek;1973;2;208;8.1
+Wesele;Stanislaw Wyspianski;1901;0;210;6.9
+Ferdydurke;Witold Gombrowicz;1937;0;295;8.5
